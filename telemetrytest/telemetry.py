@@ -1,4 +1,5 @@
 import fastf1
+import matplotlib.pyplot as plt
 
 session = fastf1.get_session(2023, 'Monaco', 'Q')
 session.load()
