@@ -10,3 +10,5 @@ sai_lap= session.laps.pick_driver('SAI').pick_fastest()
 
 print(f"Leclerc Top Speed: {lec_lap['SpeedST']} km/h")
 print(f"Sainz Top Speed: {sai_lap['SpeedST']} km/h")
+
+
